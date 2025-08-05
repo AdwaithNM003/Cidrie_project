@@ -1,1 +1,6 @@
-# Cidrie_project
+# python sample programs
+
+## question1
+
+
+
