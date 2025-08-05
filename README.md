@@ -28,6 +28,7 @@ read csv by importing pandas,filled empty columns by fillna() and mean functiona
 
 ## qn10
 wrote basic calculate_discount function in calc_disc.py
+
 conducted basic unittest for normal values,negative price,percentage over 100 and below 0 by using assertRaises(ValueError) inside a class which conducted testcases
 
 
